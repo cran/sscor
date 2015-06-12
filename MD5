@@ -1,0 +1,8 @@
+bc8c5d43403e62cd06bcedca4eee264b *DESCRIPTION
+49f4ff149902ef87df6844969ad4f1e9 *NAMESPACE
+98ff828830aeaab413808b932978779d *R/sscor.R
+965faafbdbb446f007d40f373f7740ad *R/sscor.test.R
+5014fe049be07f0075a356fcd2b989e7 *R/transformation.R
+617595c074f81459999028328469f3ef *man/sscor-package.Rd
+fb3803fa9cf50f7268a308c99af4d76a *man/sscor.Rd
+735bec21ca048b9dc2372d8cd56dbcd3 *man/sscor.test.Rd
