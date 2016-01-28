@@ -1,8 +1,8 @@
 Package: sscor
 Type: Package
 Title: Robust Correlation Estimation and Testing Based on Spatial Signs
-Version: 0.1
-Date: 2015-06-12
+Version: 0.2
+Date: 2016-01-19
 Authors@R: c(
   person("Alexander", "Duerre", role=c("aut","cre"), email="alexander.duerre@tu-dortmund.de"),
   person("Daniel", "Vogel", role=c("aut"), email="daniel.vogel@abdn.ac.uk"))
@@ -13,9 +13,9 @@ ByteCompile: true
 LazyData: true
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2015-06-12 12:22:17 UTC; alexander
+Packaged: 2016-01-28 10:58:55 UTC; alexander
 Author: Alexander Duerre [aut, cre],
   Daniel Vogel [aut]
 Maintainer: Alexander Duerre <alexander.duerre@tu-dortmund.de>
 Repository: CRAN
-Date/Publication: 2015-06-12 23:30:51
+Date/Publication: 2016-01-28 20:45:58

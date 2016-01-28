@@ -26,7 +26,8 @@ Maintainer: Alexander \enc{Dürre}{Duerre} <alexander.duerre@udo.edu>
 \enc{Dürre}{Duerre}, A., Vogel, D., Fried, R. (2015): Spatial sign correlation, \emph{Journal of Multivariate Analyis}, vol. 135, 89--105. 
 \href{http://arxiv.org/abs/1403.7635}{arvix 1403.7635}
 
-\enc{Dürre}{Duerre}, A., Vogel, D. (2015): Asymptotics of the two-stage spatial sign correlation, preprint. \href{http://arxiv.org/abs/1506.02578}{arxiv 1506.02578}
+\enc{Dürre}{Duerre}, A., Vogel, D. (2016): Asymptotics of the two-stage spatial sign correlation, \emph{Journal of Multivariate Analyis}, vol. 144, 54--67. \href{http://arxiv.org/abs/1506.02578}{arxiv 1506.02578}
 
+\enc{Dürre}{Duerre}, A., Tyler, D. E., Vogel, D. (2016): On the eigenvalues of the spatial sign covariance matrix in more than two dimensions, to appear in: \emph{Statistics and Probability Letters}. \href{http://arxiv.org/abs/1512.02863}{arvix 1512.02863}
 }
 

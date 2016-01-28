@@ -1,5 +1,13 @@
 export("sscor")
 export("sscor.test")
+export("SSCM2Shape")
+export("Shape2SSCM")
+export("evShape2evSSCM")
+export("evSSCM2evShape")
 
+importFrom("robustbase", "Qn")
+importFrom("pcaPP", "l1median_BFGS")
+importFrom("mvtnorm", "rmvt","rmvnorm")
+importFrom("stats", "cov2cor", "mad", "median", "pnorm", "qnorm", "sd")
+importFrom("utils", "combn")
 
-import(pcaPP,robustbase,mvtnorm)
