@@ -30,7 +30,7 @@ There are two possibilities to calculate this matrix, one can either estimate al
 
 The correlation estimator is computed in three steps: the data is standardized marginally, i.e., each variable is divided by a scale estimate. (This step is optional, but recommended, and hence the default.)
 Then, if \code{pdim=FALSE}, for each pair of variables the 2x2 spatial sign covariance matrix (SSCM) is computed, and then from the SSCM a univariate correlation estimate given by the formulas (5) and (6) in \enc{Dürre}{Duerre} et al. (2015). These pairwise correlation estimates are the off-diagonal elements of the returned matrix estimate.
-Otherwise, if {pdim=TRUE}, the pxp SSCM is computed, and then from the SSCM an estimator of the correlation matrix, which is done by the function \code{\link{SSCM2Shape}}, see there for details.
+Otherwise, if \code{pdim=TRUE}, the pxp SSCM is computed, and then from the SSCM an estimator of the correlation matrix, which is done by the function \code{\link{SSCM2Shape}}, see there for details.
 
 
 Scale estimation:
@@ -40,7 +40,7 @@ The scale estimates may either be computed outside the function \code{sscor} and
 
 \code{"mad"}: applies \code{\link{mad}} from the standard package \code{stats}.  This is the default.
 
-\code{"Qn"}: applies \code{\link{Qn}} from the package \code{robustbase}.
+\code{"Qn"}: applies \code{\link[robustbase]{Qn}} from the package \code{robustbase}.
 
 \code{"sd"}: applies the standard deviation \code{\link{sd}}. 
 

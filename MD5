@@ -1,8 +1,8 @@
-484ac7d50293d3e12d4fb5fed46c50ac *DESCRIPTION
+439bd33c18270cf67e600b5e08541fe3 *DESCRIPTION
 062568533d4906c458972e06c764596a *NAMESPACE
 34b90cf2fa1b10fe59734401bb66a12f *R/SSCM2Shape.R
 6cca1e6ab4d78393e9df3433ebb4498e *R/Shape2SSCM.R
-ae6b69a47eeebf73f47507fba102aa69 *R/eigenvaluefunctions.R
+2ea6856a9b41d05d3ed903292fe12257 *R/eigenvaluefunctions.R
 9183a138702939870448de2ffe7f4e31 *R/sscor.R
 965faafbdbb446f007d40f373f7740ad *R/sscor.test.R
 5014fe049be07f0075a356fcd2b989e7 *R/transformation.R
@@ -12,5 +12,5 @@ ae6b69a47eeebf73f47507fba102aa69 *R/eigenvaluefunctions.R
 c177c67b29f472a986fd4bfdf07c370b *man/evSSCM2evShape.Rd
 82b3c9a6caeacde57df858914b008f9c *man/evShape2evSSCM.Rd
 a48c71d56bd9147ce84cbf22501d571d *man/sscor-package.Rd
-b7c04a62149c09b49213986d6e988457 *man/sscor.Rd
+1e1b0b10f76a8127da0a0f007e69cd4b *man/sscor.Rd
 735bec21ca048b9dc2372d8cd56dbcd3 *man/sscor.test.Rd
